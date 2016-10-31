@@ -35,14 +35,16 @@ public class PopulateData implements CommandLineRunner {
         NoteEntry n4 = new NoteEntry().setName("fgkfjk").setOwner(c2);
         NoteEntry n5 = new NoteEntry().setName("dhryehr").setOwner(c2);
 
-/*        customerDao.save(c1);
+/*
+        customerDao.save(c1);
         customerDao.save(c2);
 
         entryDao.save(n1);
         entryDao.save(n2);
         entryDao.save(n3);
         entryDao.save(n4);
-        entryDao.save(n5);*/
+        entryDao.save(n5);
+*/
 
     }
 
