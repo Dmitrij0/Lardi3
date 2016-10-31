@@ -3,7 +3,7 @@ package com.springboot.lardi.entity.dao.mysql;
 import com.springboot.lardi.entity.NoteEntry;
 import com.springboot.lardi.entity.dao.NoteEntryDAO;
 import org.springframework.stereotype.Repository;
-import org.springframework.transaction.annotation.Transactional;
+import org.springframework. transaction.annotation.Transactional;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
